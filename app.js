@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 
 //Bot Settings
-const prefix = '&'
+const prefix = '!'
 
 //Listener Event: Message recieved
 bot.on('message', message => {
