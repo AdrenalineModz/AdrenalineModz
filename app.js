@@ -72,7 +72,7 @@ bot.on('message', message => {
 bot.on('ready', () => {
   console.log('Bot online.')
 
-  bot.user.setActivity('DM to buy')
+  bot.user.setActivity('Grand Theft Auto V')
 
 })
 
