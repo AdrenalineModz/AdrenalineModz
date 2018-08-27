@@ -1,2 +1,2 @@
 # AdrenalineModz
-Discord bot
+Discord Bot
